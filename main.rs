@@ -1,6 +1,5 @@
-// Version 3
 fn main() {
-    println!("Another message");
+    println!("Hello, World!");
 }
 
-// Unique ID: 3bf963524d9c46ca9c3aef59ceec578f
+// Unique ID: ddd3f0b8217e4798a27f966317a67cd0
