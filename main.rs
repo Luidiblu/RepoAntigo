@@ -1,5 +1,5 @@
 fn main() {
-    println!("Hello, World!");
+    println!("Hello, Rust!");
 }
 
-// Unique ID: 57e82458cff941618f3dfa0a5db4dc6f
+// Unique ID: ccee6c854be84154a52ddbd0c43bbfd2
