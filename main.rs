@@ -1,5 +1,6 @@
+// Version 3
 fn main() {
-    println!("Hello, Rust!");
+    println!("Another message");
 }
 
-// Unique ID: 91decbfb57ab4c5e9846d4b2e652d09e
+// Unique ID: c04d7afc119546c6a6076257fc90944b
